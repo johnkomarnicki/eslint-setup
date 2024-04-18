@@ -4,6 +4,7 @@ import { RouterLink, RouterView } from "vue-router";
 import HelloWorld from "./components/HelloWorld.vue";
 
 const test = ref("hello");
+const testTwo = ref("hello 2");
 </script>
 
 <template>
